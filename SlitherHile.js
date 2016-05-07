@@ -1,20 +1,12 @@
 // ==UserScript==
-// @name         Slither.io Hile
-// @updateURL https://raw.githubusercontent.com/slitherhile/Slither-io-Hile/master/SlitherHile.js
-// @namespace    slither.hile
-// @version      0.0.1
-// @description  slither.io Hile
-// @copyright 2016, SlitherHile (http://slither-hile.blogspot.com.tr/)
+// @name         SlitherHile
+// @namespace    http://slither-hile.blogspot.com.tr/2016/05/slitherio-hilesi.html
+// @version      0.1
+// @description  Slither.io Hilesi
 // @author       slither
-// @collaborator slither
-// @match        http://slither.io/*
-// @homepageURL http://slither-hile.blogspot.com.tr/
-// @supportURL http://slither-hile.blogspot.com.tr/
-// @run-at       document-body
+// @match        https://raw.githubusercontent.com/slitherhile/Slither-io-Hile/master/SlitherHile.js
 // @grant        none
 // ==/UserScript==
-
-// Source: http://slither-hile.blogspot.com.tr/
 
 (function(w) {
     var modVersion = "v0.0.1",
